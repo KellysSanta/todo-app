@@ -8,7 +8,7 @@
     tools:context="co.devhack.todoapp.MainActivity"
     tools:showIn="@layout/app_bar_main">
 
-    <include layout="@layout/fragment_login" />
+    <include layout="@layout/fragment_my_tasks" />
 
 
 

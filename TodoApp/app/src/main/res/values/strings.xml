@@ -14,5 +14,6 @@
     <string name="create_count">Crear cuenta</string>
     <string name="already_have_acount">Ya tengo una cuenta</string>
     <string name="registrarme">registrarme</string>
-    <string name="my_tasks">Mis Tareas</string>
+    <string name="Tasks_1">Tarea 1</string>
+    <string name="My_tasks">Mis tareas</string>
 </resources>
