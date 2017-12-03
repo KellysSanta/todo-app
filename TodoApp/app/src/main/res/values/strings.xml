@@ -10,10 +10,23 @@
     <string name="forgot_password">Olvidé mi contraseña</string>
     <string name="remember_user">Recordar mi usuario en este dispositivo</string>
     <string name="start">Iniciar</string>
-    <string name="not_has_account">No tengo una cuenta</string>
+    <string name="not_have_account">No tengo una cuenta</string>
     <string name="create_count">Crear cuenta</string>
+    <string name="full_name">Nombre completo</string>
     <string name="already_have_acount">Ya tengo una cuenta</string>
-    <string name="registrarme">registrarme</string>
     <string name="Tasks_1">Tarea 1</string>
     <string name="My_tasks">Mis tareas</string>
+    <string name="email">Correo</string>
+    <string name="is_required">Es requerido</string>
+    <string name="recovery">Recuperar</string>
+    <string name="recovery_password">Recuperar contraseña</string>
+    <string name="signup">Registrarme</string>
+    <string name="already_have_account">Ya tengo una cuenta</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+
 </resources>
